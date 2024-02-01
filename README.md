@@ -1,1 +1,2 @@
 # Pizza-Sales-Prediction-Technique
+Pizza is one of the most popular foods worldwide, with millions of pizzas being sold every day. As a result, understanding the pizza industry and its trends can provide valuable insights for businesses and researchers alike. This dataset on pizza sales offers a comprehensive look at pizza sales trends, including information on sales volume, revenue, and customer preferences. The dataset includes data from various pizza restaurants and chains, both large and small, across different regions and time periods.
